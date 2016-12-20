@@ -1,6 +1,8 @@
 # United States
 
-A few things about the US:
+## New York
+
+A few things about the New York City:
 
 1. Coupons everywhere. You should take advantage of this.
 1. Never tell anybody that you stopped in New Jersey, even though
