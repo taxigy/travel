@@ -7,6 +7,7 @@ decided to spin these tips off to a separate repo. Enjoy!
 ## Countries
 
 - [Greece](Greece).
+- [United States](US).
 
 ----
 
