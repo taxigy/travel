@@ -50,3 +50,8 @@ A few things about the New York City:
    of matches.
 1. Hybrid-electric buses that emit virtually no exhaust, or at
    least it's so clean it's hard to feel in the air.
+1. It's likely you'll live in an apartment with squeaky floors,
+   paint splitting off the walls, and relatively old interiors.
+   It might be unbearable for a European apartment (which is odd,
+   because it might be twice as old), but it seems fine in low-tier
+   apartments in New York.
