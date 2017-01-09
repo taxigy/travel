@@ -55,3 +55,16 @@ A few things about the New York City:
    It might be unbearable for a European apartment (which is odd,
    because it might be twice as old), but it seems fine in low-tier
    apartments in New York.
+
+### Brooklyn
+
+Brooklyn is told to be more hipster and creative than Manhattan,
+which is more inclined towards business and capital. Truth is,
+there's just less money in Brooklyn, therefore less rush.
+
+Brooklyn is more spacious, and it's easier to find a seat at a
+restaurant within 3 minutes worth walking distance.
+
+Subway trains are always stuffed. Subway lines are sparse and
+stations are relatively farther away from each other, as compared
+to those on Manhattan.
