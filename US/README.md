@@ -58,13 +58,26 @@ A few things about the New York City:
 
 ### Brooklyn
 
+> Warning! I've been in Brooklyn in winter, so no surprise
+> first impression wasn't great.
+
 Brooklyn is told to be more hipster and creative than Manhattan,
 which is more inclined towards business and capital. Truth is,
-there's just less money in Brooklyn, therefore less rush.
+there's just less money in Brooklyn. It reflects into the quality
+of restaurants and generally into what you see around.
+
+Brooklyn has less noise from sirens but more noise from airplanes
+and trains.
 
 Brooklyn is more spacious, and it's easier to find a seat at a
-restaurant within 3 minutes worth walking distance.
+restaurant within 3 minutes worth walking distance. Almost at any
+time, no matter where are you, there is likely going to be a free
+table for three at the first restaurant you stop by.
 
 Subway trains are always stuffed. Subway lines are sparse and
 stations are relatively farther away from each other, as compared
 to those on Manhattan.
+
+Atlantic Ave train station is good below the surface.
+
+River edge around Manhattan bridge is nice.
