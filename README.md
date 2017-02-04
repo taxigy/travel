@@ -6,8 +6,8 @@ decided to spin these tips off to a separate repo. Enjoy!
 
 ## Countries
 
-- [Greece](Greece).
-- [United States](US).
+- [Crete island, Greece](crete).
+- [New York City](new-york).
 
 ----
 
