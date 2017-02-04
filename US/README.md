@@ -1,5 +1,7 @@
 # United States
 
+- [Internet](internet.md).
+
 ## Arrival
 
 Upon arrival, in the plane, you are given with a blank form that
