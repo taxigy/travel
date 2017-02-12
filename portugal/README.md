@@ -20,12 +20,39 @@ and Black are quite small (even though really expensive cars), so
 if you have half a dozen suitcases, you're in trouble. Expect
 small cars, small trunks.
 
+### Food delivery
+
+Among international deliveries, there's Domino's pizza, which is
+pretty much like in [the NYC](../new-york). Probably just even
+this one.
+
+Food delivery usually works split days, from late morning until
+afternoon (10pm to 2–3pm) and then in the evening (6pm to 10pm).
+
+Most food deliveries require phone calls, and since most people
+in Lisbon don't speak English, you may want to learn a few
+phrases in Portuguese.
+
+To find a food delivery in Google, one does not simply look up
+"food delivery Lisbon". Instead, it should be "entrega de
+alimentos em Lisboa". The latter has greater chance to yield
+proper results.
+
+Delivery food is just okay, just like everywhere. It's rarely of
+poor quality (like, for example, Chinese delivery in New York),
+but it's presumably never of great quality either.
+
 ### Breakfast
 
 The easiest option we could find is to have fruit and cookies for
 breakfast.  Every visit to grocery store and fruit and vegetables
 store would cost about €20 on average (after a few months in [New
 York](../new-york), it feels _so cheap_).
+
+### Coffee
+
+Coffee is below any expectations (but not as bad as
+[Greek](../crete)). Take tea.
 
 ### Lunch and dinner
 
@@ -45,4 +72,15 @@ Most restaurants have European style schedule: either open at
 evening or close after midday. Adjust for it. Google Maps will
 help.
 
-Sometimes you'll need cash to pay for your food.
+Oftentimes you'll need cash to pay for your food.
+
+You'll likely be offered with extra plates to share food. It's
+considered normal, even though portion sizes aren't large
+oftentimes. For three persons, it's typical to order 3–4 plates
+and share them.
+
+Sometimes the kitchen would be open, but not all positions in
+menu would be available. Waiters know that and will tell at the
+same moment they give you a menu.
+
+Choose fish over other options.
