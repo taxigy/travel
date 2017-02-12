@@ -8,7 +8,7 @@ decided to spin these tips off to a separate repo. Enjoy!
 
 - [Crete island, Greece](crete).
 - [New York City](new-york).
-- [Portugal](portugal.md).
+- [Portugal](portugal).
 
 ----
 
