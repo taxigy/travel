@@ -6,9 +6,11 @@ decided to spin these tips off to a separate repo. Enjoy!
 
 ## Countries
 
-- [Crete island, Greece](crete).
-- [New York City](new-york).
+- [Crete island, Greece](greece/crete.md).
+- [New York City](usa/new-york.md).
 - [Portugal](portugal).
+- [Germany](germany).
+- [Russia](russia).
 
 ----
 

@@ -1,25 +1,4 @@
-# United States
-
-- [Internet](internet.md).
-
-## Arrival
-
-Upon arrival, in the plane, you are given with a blank form that
-you have to fill in with data and later give to the officer. The
-idea is to make sure you don't bring dangerous stuff. To make
-things easier, you
-
-- should not bring food; just throw away all the perishable
-  stuff, food included, when you are packing your bag,
-- better not enter the US after being anywhere in tropics or even
-  closer to equator, to avoid being considered a bearer of a
-  virus or other contagious stuff,
-- be careful with drugs you possess, especially ones you might
-  have purchased in another country without doctor's
-  prescription. A little pack of antibiotic pills or emulsion is
-  good though.
-
-## New York
+# New York
 
 A few things about the New York City:
 
@@ -75,7 +54,7 @@ A few things about the New York City:
    because it might be twice as old), but it seems fine in low-tier
    apartments in New York.
 
-### Brooklyn
+## Brooklyn
 
 > Warning! I've been in Brooklyn in winter, so no surprise
 > first impression wasn't great.
@@ -99,4 +78,4 @@ to those on Manhattan.
 
 Atlantic Ave train station is good below the surface.
 
-River edge around Manhattan bridge is nice.
+River edge around Manhattan bridge is nice (DUMBO).
