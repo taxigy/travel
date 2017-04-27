@@ -2,6 +2,12 @@
 
 A few things about the New York City:
 
+1. Wherever you go, whomever you talk to, you'll be asked the
+   same question over and over again: "Where are you from?" It's
+   not offence, it's not that people want to exploit your personal
+   information, it's more a cultural thing, a sign of politeness.
+   Side-effect: over time, you'll have learned to give short
+   response loaded with maximum amount of meaning.
 1. Coupons everywhere. You should take advantage of this.
 1. Never tell anybody that you stopped in New Jersey, even though
    it might be 1.5x cheaper.
